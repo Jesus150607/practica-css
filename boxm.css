@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+  }
+  div{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 2px outset black;
+    box-shadow: 0px -10px 30px black;
+    margin: 100px;
+    padding: 50px;
+    
+  }
+  #d1{
+   border: 4px dashed blue;
+   box-shadow: 2px 15px 20px white;
+  }
+  #d2{
+    border: 5px double gray;
+    box-shadow: -5px 20px 10px palegoldenrod;
+    background: lavender;
+  }
+  #d3{
+   border: 5px groove blue;
+   box-shadow: 2px 15px 20px white;
+   background: palegreen;
+  }
+  #d4{
+    border: 5px ridge gray;
+    box-shadow: -5px 20px 10px ridge;
+    background: cyan;
+  }
+  #d5{
+    border: 5px double rebeccapurple;
+    box-shadow: -5px 20px 10px dotted;
+    background: magenta;
+  }
+  .blue{
+    background: powderblue;
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px darkred;
+  }
+  .red{
+    background: lime;
+    border: 8px double steelblue;
+    box-shadow: -10px 5px 6px black;
+  }
+  .hola{
+    background: plum;
+    border: 8px ridge steelblue;
+    box-shadow: -10px 20px 10px paleturquoise;
+  } 
+  #d9{
+    background: blueviolet;
+    border: 8px double steelblue;
+    box-shadow: 10px 5px 6px rebeccapurple;
+  }
+  #d10{
+   background: powderblue;
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px cornflowerblue; 
+  }

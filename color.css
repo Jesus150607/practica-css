@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+  }
+  div{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 2px outset black;
+    box-shadow: 0px -10px 30px black;
+    margin: 100px;
+    padding: 50px;
+    
+  }
+  #d1{
+   border: 4px dashed blue;
+   box-shadow: 2px 15px 20px white;
+   background: olive;
+  }
+  #d2{
+    border: 5px double gray;
+    box-shadow: -5px 20px 10px palegoldenrod;
+    background: 	#FA8072;
+  }
+  #d3{
+   border: 5px groove blue;
+   box-shadow: 2px 15px 20px white;
+   background: #FFF;
+  }
+  #d4{
+    border: 5px ridge gray;
+    box-shadow: -5px 20px 10px ridge;
+    background: rgb(139, 0, 0);
+  }
+  #d5{
+    border: 5px double rebeccapurple;
+    box-shadow: -5px 20px 10px dotted;
+    background: rgb(30%, 20%, 100%);
+  }
+  .blue{
+    background: rgba(100%, 10%, 0%, 1);
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px darkred;
+  }
+  
+  .hola{
+    background: rgba(10, 20, 50, 0.5);
+    border: 8px ridge steelblue;
+    box-shadow: -10px 20px 10px paleturquoise;
+  } 
+  .red{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(114,105,165,1) 61%, rgba(30,173,201,1) 100%);
+    border: 8px double steelblue;
+    box-shadow: -10px 5px 6px black;
+  }
+  #d9{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    border: 8px double steelblue;
+    box-shadow: 10px 5px 6px rebeccapurple;
+  }
+  #d10{
+   background: radial-gradient(circle, rgba(155,55,55,0.6534455128205128) 19%, rgba(52,41,213,0.9042467948717948) 38%, rgba(30,173,201,1) 89%);
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px cornflowerblue; 
+  }
+  #d11{
+    background: linear-gradient(90deg, rgba(155,55,55,0.6534455128205128) 11%, rgba(27,19,145,0.9042467948717948) 35%, rgba(30,173,201,1) 87%);
+    border: 8px double steelblue;
+    box-shadow: 10px 5px 6px rebeccapurple;
+  }
+  #d12{
+   background: linear-gradient(0deg, rgba(33,37,193,1) 10%, rgba(45,253,219,1) 89%);
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px cornflowerblue; 
+  }
+  #d13{
+    background: blueviolet;
+    border: 8px double steelblue;
+    box-shadow: -20px 10px 40px rebeccapurple;
+  }
+  #d14{
+   background-color: hsl(170, 50%, 50%);
+      
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px cornflowerblue; 
+  }
+  #d15{
+    background: hsl(187, 100%, 50%);
+    border: 8px double steelblue;
+    box-shadow: 10px 5px 6px rebeccapurple;
+  }
+  #d16{
+   background: hsla(244, 66%, 29%, 1);
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px cornflowerblue; 
+  }
+  #d17{
+   background: hsla(112, 66%, 40%, 1);
+    border: 8px dashed steelblue;
+    box-shadow: 10px 5px 6px cornflowerblue; 
+  }

@@ -1,0 +1,27 @@
+*{
+    margin: 0 0 0 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+img{
+    display: black;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 3px salid black;
+    border-radius: 100%;
+    transition: 2s all ease;
+  }
+  img:hover{
+    transition: 2s all ease;
+    transform: scale(1.2) rotate(360deg);
+    
+  }
+  #diferente{
+  background: yellow;
+  }
+  .blue{
+  background:blue;
+  }
+    

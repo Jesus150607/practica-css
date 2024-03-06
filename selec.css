@@ -1,0 +1,49 @@
+*{
+    margin: 0 0 0 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  p{
+    font-size:20px;
+    background: rgb(152, 122, 180);
+    color: navy;
+    
+  }
+  #diferente{
+    background: yellow;
+    color: blue;
+  }
+  .blue{
+    background:blue;
+    color: yellow;
+  }
+  input[type="text"]{
+    font-size:30px;
+  }
+  img{
+    display: black;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 3px salid black;
+    border-radius: 100%;
+    transition: 2s all ease;
+  }
+  img:hover{
+    transition: 2s all ease;
+    transform: scale(1.2) rotate(360deg);
+  }
+  header>h1{
+    background: skyblue;
+    color: black;
+  }
+  button.classic#primary{
+    width: 100px;
+    height: 100px;
+    color: black;
+    background: skyblue;
+  }
+  h1, h2,h3,h4{
+    background: rgb(13, 11, 145);
+    color: white;
+  }
